@@ -1,10 +1,18 @@
 {
-    "product_name": "Product Launcher",
-    "launcher_project_id": "8c91ecf3-e7b0-46a8-aaf7-4c419ef8ef4b",
-    "login_project_id": "bd2e1104-5494-48f9-ac50-98f230062df1",
-    "build_number": 0,
-    "callback_url": "https://login.xsolla.com/api/blank",
-    "ga_tracking_id": "UA-117660045-1",
-    "link_support":      "https://xsolla.com",
-    "link_community":    "https://xsolla.com"
+    "build_number": 1,
+    "callback_url": "https://euphoriamachine.com",
+    "check_update_interval": 600000,
+    "close_steam_launcher_when_game_start": true,
+    "create_account_link": "https://euphoriamachine.com?openLogin=true",
+    "disable_game_updates_in_steam": true,
+    "ga_tracking_id": "",
+    "game_autoupdate": true,
+    "is_username_email": false,
+    "launcher_project_id": "3bf2a443-a910-4bf5-8574-4724dd208ec4",
+    "link_community": "https://euphoriamachine.com",
+    "link_support": "https://euphoriamachine.com",
+    "login_project_id": "d3748da9-8432-11ec-8589-42010aa80004",
+    "product_name": "Euphoria Machine Launcher",
+    "restore_password_link": "https://euphoriamachine.com/password/reset",
+    "use_local_config": true
 }

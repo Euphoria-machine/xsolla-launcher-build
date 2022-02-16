@@ -16,7 +16,7 @@
             "game_layout_image":"img/Backgrounds/bg.png",
             "news_layout_image":"img/Backgrounds/news_bg.png",
             "store_layout_image":"img/Backgrounds/news_bg.png",
-            "install_layout_image":"img/Backgrounds/bg.png",
+            "install_layout_image":"img/Backgrounds/install_bg.png",
             "primary_button_bg":"rgba(9, 38, 32, 1)",
             "primary_button_text":"rgba(206, 174, 121, 1)",
             "store_size":"large",
