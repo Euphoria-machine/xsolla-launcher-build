@@ -1,5 +1,5 @@
 {
-    "build_number": 1,
+    "build_number": 6,
     "callback_url": "https://euphoriamachine.com",
     "check_update_interval": 600000,
     "close_steam_launcher_when_game_start": true,
