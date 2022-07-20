@@ -1,9 +1,9 @@
 {
-    "build_number": 10,
+    "build_number": 16,
     "callback_url": "https://euphoriamachine.com",
     "check_update_interval": 600000,
     "close_steam_launcher_when_game_start": true,
-    "create_account_link": "https://euphoriamachine.com?openLogin=true",
+    "create_account_link": "https://euphoriamachine.com/signup",
     "disable_game_updates_in_steam": true,
     "ga_tracking_id": "",
     "game_autoupdate": true,
@@ -13,6 +13,6 @@
     "link_support": "https://euphoriamachine.com",
     "login_project_id": "d3748da9-8432-11ec-8589-42010aa80004",
     "product_name": "Euphoria Machine Launcher",
-    "restore_password_link": "https://euphoriamachine.com/password/reset",
+    "restore_password_link": "https://euphoriamachine.com/reset-password",
     "use_local_config": true
 }
