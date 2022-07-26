@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.14.7] - 2022-05-05
+### Fixed
+- Minor bugs
+
 ## [2.14.6] - 2022-01-12
 ### Added
 - Game arguments customization
