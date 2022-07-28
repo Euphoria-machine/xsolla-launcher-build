@@ -1,14 +1,14 @@
 {
     "general_styles":{
         "start_page_bg":"img/Backgrounds/start_page_bg.png",
-        "primary_background_color":"rgba(17, 17, 17, 1)",
-        "secondary_background_color":"rgba(9, 38, 32, 1)",
-        "primary_text_color":"rgba(206, 174, 121, 1)",
+        "primary_background_color":"#182126",
+        "secondary_background_color":"#522811",
+        "primary_text_color":"#cdb999",
         "secondary_text_color":"rgba(231, 217, 192, 1)",
         "links_color":"rgba(231, 217, 192, 1)",
-        "primary_button_bg":"rgba(9, 38, 32, 1)",
-        "primary_button_text":"rgba(206, 174, 121, 1)",
-        "secondary_button_bg":"rgba(160, 171, 184, 1)"
+        "primary_button_bg":"#522811",
+        "primary_button_text":"#cdb999",
+        "secondary_button_bg":"#d9b29c"
     },
     "game_specific_styles":[
         {

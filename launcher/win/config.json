@@ -1,5 +1,5 @@
 {
-    "build_number": 19,
+    "build_number": 37,
     "callback_url": "https://euphoriamachine.com",
     "check_update_interval": 600000,
     "close_steam_launcher_when_game_start": true,
@@ -7,7 +7,7 @@
     "disable_game_updates_in_steam": true,
     "ga_tracking_id": "",
     "game_autoupdate": true,
-    "is_username_email": false,
+    "is_username_email": true,
     "launcher_project_id": "3bf2a443-a910-4bf5-8574-4724dd208ec4",
     "link_community": "https://euphoriamachine.com",
     "link_support": "https://euphoriamachine.com",
